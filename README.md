@@ -46,4 +46,3 @@ This Android application provides a basic inventory management system for small 
 * Add reporting features (e.g., inventory summaries).
 
 Giogioanni Morales
-```
