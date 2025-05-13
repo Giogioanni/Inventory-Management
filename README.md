@@ -45,4 +45,5 @@ This Android application provides a basic inventory management system for small 
 * Explore cloud-based data storage options.
 * Add reporting features (e.g., inventory summaries).
 
+Author:
 Giogioanni Morales
